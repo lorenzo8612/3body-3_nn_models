@@ -1,4 +1,4 @@
-import math
+raimport math
 import numpy as np
 import matplotlib
 matplotlib.use('TkAgg')
@@ -9,7 +9,7 @@ from matplotlib.widgets import Button
 
 ##############################################################################################################
 
-#File not needed to run the networks
+#File not needed to create the datasets for the neural networks
 
 #############################################################################################################
 
